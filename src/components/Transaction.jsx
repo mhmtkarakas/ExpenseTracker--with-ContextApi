@@ -1,10 +1,12 @@
 import React from "react";
 
-const Transaction = () => {
+
+const Transaction = ({transaction}) => {
+ 
   return (
     <>
       <li className="minus">
-        Cash <span>-$400</span>
+        {transaction.text} <span>{transaction.amount}</span>
         <button className="delete-btn">x</button>
       </li>
     </>
