@@ -22,6 +22,9 @@
       + The initial state includes an array of expenses and a total budget.
 
   
+ 
+ 
   ### ScreenGif
            
-    ![Expense Tracker GIF](./src/assets/Expensetracker.gif)
+    
+    ![Expense Tracker GIF](/src/assets/Expensetracker.gif)
