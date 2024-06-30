@@ -23,4 +23,4 @@
       + The initial state includes an array of expenses and a total budget
            
     
-      + ![](./src/assets/expansetrack.png)
+      + ![](./src/assets/exptrack.gif)
