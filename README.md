@@ -1,3 +1,4 @@
+
 # Expense Tracker
 
  This project is a spending calculator application built using React's Context API and useReducer hook. The application helps users track their expenses and manage their budget effectively.
@@ -19,11 +20,7 @@
 
       + The useReducer hook is used to handle state changes in a more predictable manner by defining a reducer function.
       + The reducer function takes the current state and an action, and returns a new state based on the action type.
-      + The initial state includes an array of expenses and a total budget.
-
-  
- 
- 
-    ### ScreenGif
+      + The initial state includes an array of expenses and a total budget
            
-         ![](./src/assets/expansetrack.png)
+    
+      + ![](./src/assets/expansetrack.png)
