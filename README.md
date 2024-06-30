@@ -2,7 +2,7 @@
 
  This project is a spending calculator application built using React's Context API and useReducer hook. The application helps users track their expenses and manage their budget effectively.
 
- ### Technologies Used
+  ### Technologies Used
 
   + __React__: Used to build the user interface.
   + __Context API__: Used for managing and passing the global state across the application.
@@ -21,6 +21,7 @@
       + The reducer function takes the current state and an action, and returns a new state based on the action type.
       + The initial state includes an array of expenses and a total budget.
 
-   ### ScreenGif
+  
+  ### ScreenGif
 
       ![Expense Tracker GIF](./src/assets/expensetracker.gif)
