@@ -21,6 +21,6 @@
       + The reducer function takes the current state and an action, and returns a new state based on the action type.
       + The initial state includes an array of expenses and a total budget.
 
-    ### ScreenGif
+   ### ScreenGif
 
       ![Expense Tracker GIF](./src/assets/expensetracker.gif)
