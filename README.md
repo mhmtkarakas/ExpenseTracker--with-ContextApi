@@ -15,7 +15,7 @@
       + The Context API is used to create a global state that can be accessed by multiple components without the need to pass props manually through each level of the component tree.
       + A context is created to store the state of the expenses and the dispatch function from the useReducer hook.
     
-    2. useReducer:
+   2. useReducer:
 
       + The useReducer hook is used to handle state changes in a more predictable manner by defining a reducer function.
       + The reducer function takes the current state and an action, and returns a new state based on the action type.
@@ -23,4 +23,4 @@
 
     ### ScreenGif
 
-      ![Expense Tracker GIF]("./src/assets/expensetracker.gif")
+      ![Expense Tracker GIF](./src/assets/expensetracker.gif)
