@@ -26,4 +26,4 @@
  
   ### ScreenGif
            
-    ![Expense Tracker GIF](/src/assets/exptrack.gif)
+    ![Expense Tracker](/src/assets/expansetrack.png)
